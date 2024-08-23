@@ -88,7 +88,7 @@ h1 {
     font-size: 2rem;
 }
 .btn-2:hover {
-    background-color: yellow;
+    background-color: rgb(130, 130, 7);
 }
 .btn-2:active {
     background-color: rgb(18, 125, 161);
@@ -98,6 +98,10 @@ h1 {
     border: 1px solid black;
     border-radius: 10px;
     background-color: lightcoral;
+}
+
+.btn-3:active {
+    background-color: rgb(21, 112, 169);
 }
 
 .decimal {
